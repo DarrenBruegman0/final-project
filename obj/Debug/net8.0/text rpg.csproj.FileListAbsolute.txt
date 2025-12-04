@@ -1,0 +1,14 @@
+C:\Users\TBNRD\Downloads\projects\text rpg\bin\Debug\net8.0\text rpg.exe
+C:\Users\TBNRD\Downloads\projects\text rpg\bin\Debug\net8.0\text rpg.deps.json
+C:\Users\TBNRD\Downloads\projects\text rpg\bin\Debug\net8.0\text rpg.runtimeconfig.json
+C:\Users\TBNRD\Downloads\projects\text rpg\bin\Debug\net8.0\text rpg.dll
+C:\Users\TBNRD\Downloads\projects\text rpg\bin\Debug\net8.0\text rpg.pdb
+C:\Users\TBNRD\Downloads\projects\text rpg\obj\Debug\net8.0\text rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TBNRD\Downloads\projects\text rpg\obj\Debug\net8.0\text rpg.AssemblyInfoInputs.cache
+C:\Users\TBNRD\Downloads\projects\text rpg\obj\Debug\net8.0\text rpg.AssemblyInfo.cs
+C:\Users\TBNRD\Downloads\projects\text rpg\obj\Debug\net8.0\text rpg.csproj.CoreCompileInputs.cache
+C:\Users\TBNRD\Downloads\projects\text rpg\obj\Debug\net8.0\text rpg.dll
+C:\Users\TBNRD\Downloads\projects\text rpg\obj\Debug\net8.0\refint\text rpg.dll
+C:\Users\TBNRD\Downloads\projects\text rpg\obj\Debug\net8.0\text rpg.pdb
+C:\Users\TBNRD\Downloads\projects\text rpg\obj\Debug\net8.0\text rpg.genruntimeconfig.cache
+C:\Users\TBNRD\Downloads\projects\text rpg\obj\Debug\net8.0\ref\text rpg.dll
